@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The Scalable-Thread-Management-Library** is a backend application built in Java to efficiently manage and execute up to 1000 concurrent threads. It is designed with a focus on scalability, optimized resource utilization, and robust concurrency handling.
+The Scalable-Thread-Management-Library is a backend application built in Java to efficiently manage and execute up to 1000 concurrent threads. It is designed with a focus on scalability, optimized resource utilization, and robust concurrency handling.
 
 A simple HTML-based interface is included to showcase the working and behavior of the system.
 
